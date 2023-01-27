@@ -37,6 +37,7 @@ header {
 
 }
 
+
 main {
   width: 100%;
   flex-grow:1;
@@ -45,6 +46,7 @@ main {
   align-items: center;
   font-weight: bolder;
   color:blue;
+  flex-direction: column;
 }
 footer {
   width: 100%;
@@ -59,3 +61,4 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
